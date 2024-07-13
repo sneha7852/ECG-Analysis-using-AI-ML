@@ -1,4 +1,4 @@
-# ECG-Analysis-Using-AI
+# ECG-Analysis-Using-AI-ML
 
 ECG- Image based Heartbeat classification for Arrhythmia Detection Using IBM Watson Studio
 
