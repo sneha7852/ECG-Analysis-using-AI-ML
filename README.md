@@ -229,10 +229,3 @@ It is endowed with an ability to effectively process the non-filtered dataset wi
 Future Scope:
 For future work, it would be interesting to explore the use of optimization techniques to find a feasible design and solution. The limitation of our study is that we have yet to apply any optimization techniques to optimize the model parameters and we believe that with the implementation of the optimization, it will be able to further elevate the performance of the proposed solution to the next level.
 
-    
-                                                 THE END
-
-
-                                                                                            Name: Mandla Sheshi Kiran Reddy
-                                                                                                Email-id: sheshikiranmandla2589@gmail.com
-
