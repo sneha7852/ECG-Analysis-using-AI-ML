@@ -1,4 +1,3 @@
-# SI-GuidedProject-78335-1656736746
 ECG- Image based Heartbeat classification for Arrhythmia Detection Using IBM Watson Studio
 
 ECG- Image Based Heartbeat Classification For Arrhythmia Detection Using IBM Watson Studio
@@ -22,15 +21,6 @@ Cardiovascular diseases (CVDs) are the number one cause of death today. Over 17.
 
 2.1  Proposed Solution:
 An "ambulatory electrocardiogram" or an ECG) about the size of a postcard or digital camera that the patient will be using for 1 to 2 days, or up to 2 weeks. The test measures the movement of electrical signals or waves through the heart. These signals tell the heart to contract (squeeze) and pump blood. The patient will have electrodes taped to your skin. It's painless, although some people have mild skin irritation from the tape used to attach the electrodes to the chest.They can do everything but shower or bathe while wearing the electrodes. After the test period, patient will go back to see your doctor. They will be downloading the information.
-
-
-
-
-
-
-
-
-
 
 
 Theoretical Experience:
@@ -150,12 +140,7 @@ An H5 file is a data file saved in the Hierarchical Data Format (HDF). It contai
 Testing the model:
 Load necessary libraries and load the saved model using load_model
 Taking an image as input and checking the results 
-Note: The target size should for the image that is should be the same as the target size that you have used for training.
 
-
-The unknown image uploaded is:
-
-Here the output for the uploaded result is normal.
 
 Application Building:
 In this section, we will be building a web application that is integrated into the model we built. A UI is provided for the uses where he has uploaded an image. The uploaded image is given to the saved model and prediction is showcased on the UI.
@@ -189,11 +174,6 @@ Running The App:
 
 
 Navigate to the localhost (http://127.0.0.1:5000/)where you can view your web page.
-
-
-
-
-
 
 
 
@@ -249,12 +229,6 @@ It is endowed with an ability to effectively process the non-filtered dataset wi
 Future Scope:
 For future work, it would be interesting to explore the use of optimization techniques to find a feasible design and solution. The limitation of our study is that we have yet to apply any optimization techniques to optimize the model parameters and we believe that with the implementation of the optimization, it will be able to further elevate the performance of the proposed solution to the next level.
 
-References:
-https://github.com/Anshuman151/ECG-Image-Based-Heartbeat-Classification-for-Arrhythmia-Detection-Using-IBM-Watson-Studio/blob/main/README.md
-https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/
-https://www.mathworks.com/help/deeplearning/ref/nnet.cnn.layer.convolution2dlayer.html;jsessionid=0a7e3bc26fabda07a5032030294b
-
-[Youtube Link] for reference(https://www.youtube.com/watch?v=EQG7rN2R-tc)
     
                                                  THE END
 
